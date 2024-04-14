@@ -1,6 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Password manager using React js provides a secure and user-frie­ndly environment for users to store­ and manage their crede­ntials. It offers convenient fe­atures like adding, editing, and de­leting password entries.
+Frontend:- Reactjs
+Backend:-Nodejs
 
 Currently, two official plugins are available:
 
